@@ -3,6 +3,4 @@
 
 Daniel Lambert
 ***
-We are on the path to success 
-
-TEST no.2
+This is a change I am making
